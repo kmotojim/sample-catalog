@@ -9,7 +9,7 @@ metadata:
     - url: https://console-openshift-console.apps.rosa.rosa-r5qpv.i58c.p3.openshiftapps.com/k8s/cluster/projects/sample-blog
       title: OpenShift Console
       icon: dashboard
-    - url: https://nginx-sample-blog.apps.rosa.rosa-r5qpv.i58c.p3.openshiftapps.co
+    - url: https://nginx-sample-blog.apps.rosa.rosa-r5qpv.i58c.p3.openshiftapps.com
       title: Application Web Site
       icon: dashboard
     - url: https://github.com/kmotojim/sample-blog.git
